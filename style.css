@@ -1,0 +1,57 @@
+h3 {
+  text-shadow: 5px 5px 3px rgb(50 150 200);
+}
+p {
+  text-shadow: 5px 5px 3px rgb(50 150 200);
+}
+.card {
+  display: inline-block;
+  width: 18%;
+  background-color: rgba(183, 246, 248, 0.575);
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin: 15px;
+  box-sizing: border-box;
+  padding: 0 0 10px 0;
+}
+img {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+body {
+  background-color: rgba(243, 195, 92, 0.541);
+  text-align: center;
+}
+.button {
+  text-decoration: none;
+  background-color: rgba(106, 250, 255, 0.548);
+  color: black;
+  border-radius: 45px;
+  display: inline-block;
+  width: 50%;
+  font-size: 20px;
+}
+.menu {
+  padding: 10px;
+}
+.menuitem {
+  margin: 50px;
+  font-size: 25px;
+  text-decoration: none;
+  color: #800000;
+  border: 1px solid black;
+  width: 220px;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 45px;
+  box-shadow: 3px 5px 3px 1px;
+}
+h2 {
+  margin-top: 100px;
+  color: #4b0082;
+}
+.znakr {
+  display: inline;
+  vertical-align: super;
+}
